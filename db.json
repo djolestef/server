@@ -1,34 +1,34 @@
 {
-"filmovi": [
+"movies": [
     {
       "id": 1,
-      "naziv": "The Shawshank Redemption",
-      "godina": 1994,
-      "ocena": 9.2
+      "name": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.2
     },
     {
       "id": 2,
-      "naziv": "The Godfather",
-      "godina": 1972,
-      "ocena": 9.1
+      "name": "The Godfather",
+      "year": 1972,
+      "rating": 9.1
     },
     {
       "id": 3,
-      "naziv": "The Godfather: Part II",
-      "godina": 1974,
-      "ocena": 9.0
+      "name": "The Godfather: Part II",
+      "year": 1974,
+      "rating": 9.0
     },
     {
       "id": 4,
-      "naziv": "The Dark Knight",
-      "godina": 2008,
-      "ocena": 9.0
+      "name": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0
     },
     {
       "id": 5,
-      "naziv": "12 Angry Men",
-      "godina": 1957,
-      "ocena": 8.9
+      "name": "12 Angry Men",
+      "year": 1957,
+      "rating": 8.9
     }
   ]
 }
