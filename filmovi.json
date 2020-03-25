@@ -1,0 +1,33 @@
+"filmovi": [
+    {
+      "id": 1,
+      "naziv": "The Shawshank Redemption",
+      "godina": 1994,
+      "ocena": 9.2
+    },
+    {
+      "id": 2,
+      "naziv": "The Godfather",
+      "godina": 1972,
+      "ocena": 9.1
+    },
+    {
+      "id": 3,
+      "naziv": "The Godfather: Part II",
+      "godina": 1974,
+      "ocena": 9.0
+    },
+    {
+      "id": 4,
+      "naziv": "The Dark Knight",
+      "godina": 2008,
+      "ocena": 9.0
+    },
+    {
+      "id": 1,
+      "naziv": "12 Angry Men",
+      "godina": 1957,
+      "ocena": 8.9
+    }
+  ]
+}
