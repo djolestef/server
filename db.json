@@ -59,18 +59,12 @@
         },
         {
             "id": 3,
-            "name": "Nis",
-            "country": "Serbia",
-            "population": 186000
-        },
-        {
-            "id": 4,
             "name": "Sarajevo",
             "country": "BiH",
             "population": 275000
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Sofija",
             "country": "Bulgaria",
             "population": 1242000
