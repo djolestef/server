@@ -43,5 +43,37 @@
         "id": 5,
         "name": "Robert De Niro"
     }
-  ]
+  ],
+    "cities": [
+        {
+            "id": 1,
+            "name": "Nis",
+            "country": "Serbia",
+            "population": 186000
+        },
+        {
+            "id": 1,
+            "name": "Beograd",
+            "country": "Serbia",
+            "population": 1374000
+        },
+        {
+            "id": 1,
+            "name": "Nis",
+            "country": "Serbia",
+            "population": 186000
+        },
+        {
+            "id": 1,
+            "name": "Sarajevo",
+            "country": "BiH",
+            "population": 275000
+        },
+        {
+            "id": 1,
+            "name": "Sofija",
+            "country": "Bulgaria",
+            "population": 1242000
+        }
+   ]
 }
